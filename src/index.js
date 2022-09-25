@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 //HTTPS
 //https://github.com/TheHolyRoller/reactapp3.git
 //PA Token
-//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
+//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
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
