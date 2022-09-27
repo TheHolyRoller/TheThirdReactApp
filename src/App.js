@@ -1,7 +1,9 @@
 import './App.css';
 import React, { Component } from 'react';
 import Home from "./pages/Home";
+//import React from 'react';
 import Pages from "./pages/Pages";
+//<Pages />
 
 
 //PA Token
@@ -14,10 +16,6 @@ function App() {
     <div className="App">
     <nav> </nav>
     <h1> Welcome </h1>
-    <Home />
-    <Pages />
-
-
     </div>
   );
 }

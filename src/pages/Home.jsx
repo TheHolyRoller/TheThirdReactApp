@@ -10,10 +10,11 @@ function Home() {
 
 return(
 
-<div>Home
+
+<div>
 <Veggies />
 
-<Popular />
+ <Popular />
 
 </div>
 
