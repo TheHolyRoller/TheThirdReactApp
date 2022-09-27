@@ -1,16 +1,25 @@
 
 //Remove the .jsx extension
-import Veggie from "../components/Veggie";
+//This will be used to call the componets
+import Veggies from "../components/Veggies";
 import Popular from "../components/Popular";
-import React from 'react'
+
+import React from 'react';
 
 function Home() {
-  return (
-    <div>
-    <Veggie/>
-   <Popular/>
-    </div>
-  )
+
+return(
+
+<div>Home
+<Veggies />
+
+<Popular />
+
+</div>
+
+
+);
+
 }
 
-export default Home
+export default Home;
